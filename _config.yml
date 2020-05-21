@@ -14,7 +14,7 @@ title: 'Product Galaxy'
 slogan: 'A Galaxy of Product Reviews'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'Product Galaxy is an online product review website with many different contents.'
+description: 'Product Galaxy is a website which reviews lots of different products and services.'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Copyright 2020 Product Galaxy.</p>'
@@ -38,7 +38,7 @@ improve_content: https://github.com/ProductGalaxy/productgalaxy.github.io/edit/g
 # Example: <img src="{{ site.urlimg }}{{ post.image.title }}" />
 # Markdown-Example for posts ![Image Text]({{ site.urlimg }}image.jpg)
 #
-urlimg: 'https://images/'
+urlimg: '/images/'
 
 
 # Logo size is 600x80 pixels
