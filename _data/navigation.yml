@@ -1,13 +1,13 @@
-- title: Start
+- title: Home
   url: "/"
   side: left
 
-- title: Getting Started
-  url: "/getting-started/"
+- title: Latest
+  url: "/latest/"
   side: left
 
-- title: "Templates"
-  url: "/design/"
+- title: "Categories"
+  url: "/categories/"
   side: left
   dropdown:
   - title: "Grid & Colors"
