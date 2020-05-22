@@ -15,6 +15,7 @@ widget1:
 widget2:
   title: "Why use this theme?"
   url: '/info/'
+  image: widget-github-303x182.jpg
   text: '<em>Feeling Responsive</em> is heavily customizable.<br/>1. Language-Support :)<br/>2. Optimized for speed and it&#39;s responsive.<br/>3. Built on <a href="http://foundation.zurb.com/">Foundation Framework</a>.<br/>4. Seven different Headers.<br/>5. Customizable navigation, footer,...'
   video: '<a href="#" data-reveal-id="videoModal"><img src="http://images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
 widget3:
@@ -33,8 +34,8 @@ widget3:
 # To change colors see sass/_01_settings_colors.scss
 #
 callforaction:
-  url: https://tinyletter.com/feeling-responsive
-  text: Inform me about new updates and features ›
+  url: /latest/
+  text: View the latest articles ›
   style: alert
 permalink: /index.html
 #
